@@ -9,4 +9,6 @@
 aviutl/
 
 *.dll
-.BROWSE.VC.DB*
+
+*.VC.DB*
+*.aps
